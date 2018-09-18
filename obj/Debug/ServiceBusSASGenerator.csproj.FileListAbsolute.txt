@@ -1,0 +1,15 @@
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\bin\Debug\ServiceBusSASGenerator.exe.config
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\bin\Debug\ServiceBusSASGenerator.exe
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\bin\Debug\ServiceBusSASGenerator.pdb
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\ServiceBusSASGenerator.csprojAssemblyReference.cache
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\MainWindow.g.cs
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\App.g.cs
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\ServiceBusSASGenerator_MarkupCompile.cache
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\ServiceBusSASGenerator_MarkupCompile.lref
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\MainWindow.baml
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\ServiceBusSASGenerator.g.resources
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\ServiceBusSASGenerator.Properties.Resources.resources
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\ServiceBusSASGenerator.csproj.GenerateResource.cache
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\ServiceBusSASGenerator.csproj.CoreCompileInputs.cache
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\ServiceBusSASGenerator.exe
+C:\NZ\Git\ServiceBusSASGenerator\ServiceBusSASGenerator\obj\Debug\ServiceBusSASGenerator.pdb
